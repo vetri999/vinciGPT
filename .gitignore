@@ -1,2 +1,4 @@
 .DS_Store
 input/raw_data/
+.venv/
+process/__pycache__/
