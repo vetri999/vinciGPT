@@ -4,16 +4,16 @@ vinciGPT is an educational + practical open-source repo to understand GPTs end-t
 
 ## Why vinciGPT?
 
-### 1) Understand maths & science of GPT in own CPU → **Simple to understand (most critical)**
+### 1. Understand maths & science of GPT in own CPU → **Simple to understand (most critical)**
 - Full training loop: see loss drop + improvement in sample tests
 - Full inference loop: generate “coherent-enough” output (purely educational)
 
-### 2) Deploy privately for custom usecases → **Simple to customise (most critical)**
+### 2. Deploy privately for custom usecases → **Simple to customise (most critical)**
 - Rent GPUs, increase parameters for powerful training/inference
 - Load open weights (from best open source models)
 - Finetune with custom dataset
 
-### 3) Agent Interface (interfaces + reference integrations) → **Reproducible + Testable agents**
+### 3. Agent Interface (interfaces + reference integrations) → **Reproducible + Testable agents**
 - RAG interface: retrieve data (enterprise/open) → augment answers
 - Agent interface: create actions → design workflows → get connector code to connect tools/connectors
 - Test & govern agents: audit trace using step graph + policy
